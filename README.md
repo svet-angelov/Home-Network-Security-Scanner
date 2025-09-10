@@ -15,7 +15,7 @@ The application is designed around a modular architecture with the following cor
 
 ## System Architecture
 
-![System Architecture Diagram](architecture.png)
+![System Architecture Diagram](architecture.jpg)
 
 ## Technologies Used
 * **Backend:** Python, Flask
